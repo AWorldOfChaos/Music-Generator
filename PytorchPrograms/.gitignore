@@ -1,3 +1,4 @@
 CatsDogs/
 data/
 .ipynb_checkpoints/
+training_data.npy
