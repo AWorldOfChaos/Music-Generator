@@ -1,6 +1,11 @@
 # AI Music Generator 
 ## Team Keygen Catastrophe
-### Project Description
+1. Kartik Gokhale
+2. Mehul Vijay Chanda
+3. Nikhil Manjarekar
+4. Pratham Kurkure
+
+## Project Description
 This project is being undertaken by us as part of our ITSP - Institute Technical Summer Project 2021. 
 
 ![Alt text](https://repository-images.githubusercontent.com/259342137/d5061e00-8ad0-11ea-9e14-8fe811b5cc49 "a title")
